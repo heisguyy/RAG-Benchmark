@@ -1,0 +1,5 @@
+Document:
+{DOCS} 
+
+Question:
+{QUERY}
